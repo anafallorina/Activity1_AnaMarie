@@ -19,3 +19,4 @@ The changes are prepared and added to the staging area using the `git add` comma
 region. The staged changes are recorded as a version by the `git commit` command.
 within the Git repository. Thus, the changes are prepared by git add, while
 These modifications are stored in the project's history by git commit.
+# Activity 1 Portfolio
